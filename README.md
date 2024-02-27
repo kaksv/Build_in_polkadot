@@ -1,0 +1,1 @@
+This series is aimed at kickstarting a developer to start building on Polkadot. In these serries, we take on three weeks; Four days a week as we dive deeper into the polkadot techstack starting from Rust in Week one, Ink smart contracts and Substrate in the last week.
